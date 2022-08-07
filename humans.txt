@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Dmitriy Z - email - social network
 
 # THANKS
 
