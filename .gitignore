@@ -1,3 +1,9 @@
 ignoredFile.txt
 *.orig
 *.bak
+*_BASE_*.html
+*_BACKUP_*.html
+*_LOCAL_*.html
+*_REMOTE_*.html
+
+
